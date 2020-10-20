@@ -8,7 +8,7 @@ Overview
 ========================================================
 This application aims to predict housing prices using number of rooms. It contains 2 tabs: 
 
-**Main** - The actual application itself
+**Main** - The application itself
 
 **Description** - A short description on what the application does and how to use it
 
