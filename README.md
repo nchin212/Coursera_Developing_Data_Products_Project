@@ -54,4 +54,4 @@ Your presentation must satisfy the following
 
 The Shiny application can be viewed [here](https://nchin212.shinyapps.io/housingapp/)
 
-The RStudio Presentation can be viewed [here](https://nchin212.github.io/Coursera_Developing_Data_Products_Project/slides.html)
+The RStudio Presentation can be viewed [here](https://nchin212.github.io/Coursera_Developing_Data_Products_Project/slides/slides.html)
